@@ -1,0 +1,13 @@
+{
+  "name": "ollama-proxy",
+  "version": "1.0.0",
+  "main": "ollama-proxy.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node ollama-proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.7"
+  }
+}
