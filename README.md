@@ -87,7 +87,7 @@ These models do **not** appear to use premium requests. However, I am unsure if 
 
 ## Usage
 
-Configure your VSCode Copilot Chat LM Proxy extension (or any compatible client) to use `http://localhost:11434/v1` as the API base URL.
+Configure your Github Copilot Chat (or any compatible client) to use `http://localhost:11434/v1` as the API base URL.
 
 This enables chat mode with models like GPT-4, GPT-4o Mini, GPT-3.5 Turbo, and any other models exposed by the LM Proxy extension, all routed through this proxy.
 
